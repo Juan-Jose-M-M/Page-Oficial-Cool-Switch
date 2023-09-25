@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 30, 144, 255;
+  --bs-primary-rgb: 72, 124, 182;
   --bs-secondary-rgb: 47, 23, 15;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -91,6 +91,11 @@
   :root {
     scroll-behavior: smooth;
   }
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap");
+.textoini {  
+  font-family: "Roboto", sans-serif;
 }
 
 body {
@@ -11174,7 +11179,7 @@ p {
 }
 
 .bg-faded {
-  background-color: #b0e0e6;
+  background-color: #8bbaf9;
 }
 
 .btn-xl {
@@ -11187,7 +11192,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgb(30, 144, 255);
+  background-color: #487cb6;
   color: #f0f0f0;
   font-family:
     "Raleway",
@@ -11244,7 +11249,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgb(30, 144, 255);
+  background-color: #487cb6;
 }
 .cta .cta-inner {
   position: relative;
@@ -11264,7 +11269,7 @@ p {
 }
 
 .footer {
-  background-color: rgb(30, 144, 255);
+  background-color: #215f97;
 }
 
 .intro {
